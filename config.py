@@ -13,6 +13,6 @@ GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
 LEARNING_FORMATS = ["video", "text", "audio"]
 
 # Model configuration
-MODEL_NAME = "gemini-2.5-pro"
+MODEL_NAME = "gemini-2.5-flash"
 TEMPERATURE = 0.7
 MAX_TOKENS = 4000 
